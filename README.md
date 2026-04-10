@@ -1,4 +1,4 @@
-# 🚀 Welcome to the LLM Frontier | asdfg0119
+# 🚀 LLM Research & Implementation
 
 ### ✍️ About the Space
 Welcome! This is a curated space dedicated to the rapidly evolving landscape of **Large Language Models (LLMs)**. I am driven by the belief that AI should not only process information but also generate meaningful reasoning and innovative solutions. 
